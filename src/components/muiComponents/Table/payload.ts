@@ -1,0 +1,1 @@
+export const columnHeaders = ['Characters', 'Alive', 'Gender', 'Culture', 'Allegiances']
